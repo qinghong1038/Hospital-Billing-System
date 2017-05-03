@@ -1,0 +1,20 @@
+c:\users\produ\documents\visual studio 2015\Projects\BusinessLogicLayer\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+c:\users\produ\documents\visual studio 2015\Projects\BusinessLogicLayer\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+c:\users\produ\documents\visual studio 2015\Projects\BusinessLogicLayer\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+c:\users\produ\documents\visual studio 2015\Projects\BusinessLogicLayer\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\produ\documents\visual studio 2015\Projects\HospitalBillingSystem\BusinessLogicLayer\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\produ\documents\visual studio 2015\Projects\HospitalBillingSystem\BusinessLogicLayer\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\produ\documents\visual studio 2015\Projects\HospitalBillingSystem\BusinessLogicLayer\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\produ\documents\visual studio 2015\Projects\HospitalBillingSystem\BusinessLogicLayer\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\produ\documents\visual studio 2015\Projects\HospitalBillingSystem\BusinessLogicLayer\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+S:\HUMBER\SEMESTER 2\Database programming using Java - Monday\Project\HospitalBillingSystem\BusinessLogicLayer\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+S:\HUMBER\SEMESTER 2\Database programming using Java - Monday\Project\HospitalBillingSystem\BusinessLogicLayer\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+S:\HUMBER\SEMESTER 2\Database programming using Java - Monday\Project\HospitalBillingSystem\BusinessLogicLayer\BusinessLogicLayer\bin\Debug\mscorlib.dll
+S:\HUMBER\SEMESTER 2\Database programming using Java - Monday\Project\HospitalBillingSystem\BusinessLogicLayer\BusinessLogicLayer\bin\Debug\normidna.nlp
+S:\HUMBER\SEMESTER 2\Database programming using Java - Monday\Project\HospitalBillingSystem\BusinessLogicLayer\BusinessLogicLayer\bin\Debug\normnfc.nlp
+S:\HUMBER\SEMESTER 2\Database programming using Java - Monday\Project\HospitalBillingSystem\BusinessLogicLayer\BusinessLogicLayer\bin\Debug\normnfd.nlp
+S:\HUMBER\SEMESTER 2\Database programming using Java - Monday\Project\HospitalBillingSystem\BusinessLogicLayer\BusinessLogicLayer\bin\Debug\normnfkc.nlp
+S:\HUMBER\SEMESTER 2\Database programming using Java - Monday\Project\HospitalBillingSystem\BusinessLogicLayer\BusinessLogicLayer\bin\Debug\normnfkd.nlp
+S:\HUMBER\SEMESTER 2\Database programming using Java - Monday\Project\HospitalBillingSystem\BusinessLogicLayer\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+S:\HUMBER\SEMESTER 2\Database programming using Java - Monday\Project\HospitalBillingSystem\BusinessLogicLayer\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+S:\HUMBER\SEMESTER 2\Database programming using Java - Monday\Project\HospitalBillingSystem\BusinessLogicLayer\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
